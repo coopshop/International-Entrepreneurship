@@ -1,3 +1,5 @@
+# First Steps
+
 Complete the "Foundations" Section first.
 
 Day 1 -- [Historical Background - Part 1](https://international-entrepreneurship.teachable.com/courses/international-entrepreneurships/lectures/3276058)
