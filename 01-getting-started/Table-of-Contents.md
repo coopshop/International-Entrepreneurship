@@ -1,5 +1,5 @@
 
-# Foundations
+# Getting Started
 ## Table of Contents
 
 No. | Title | Link
