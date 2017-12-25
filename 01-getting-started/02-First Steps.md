@@ -10,10 +10,10 @@ Day 7 -- [Behind the Scenes](https://international-entrepreneurship.teachable.co
 Day 8 -- [Marketing](https://international-entrepreneurship.teachable.com/courses/international-entrepreneurships/lectures/3360443)
 Day 9 -- [Cryptocurrency and Digital Money]
 
-[Part 1](https://international-entrepreneurship.teachable.com/courses/international-entrepreneurships/lectures/3359674)
+* [Part 1](https://international-entrepreneurship.teachable.com/courses/international-entrepreneurships/lectures/3359674)
 
-[Part 2](https://international-entrepreneurship.teachable.com/courses/international-entrepreneurships/lectures/3365367)
+* [Part 2](https://international-entrepreneurship.teachable.com/courses/international-entrepreneurships/lectures/3365367)
 
-[Part 3](https://international-entrepreneurship.teachable.com/courses/international-entrepreneurships/lectures/3365194)
+* [Part 3](https://international-entrepreneurship.teachable.com/courses/international-entrepreneurships/lectures/3365194)
 
 Day 10 - [Intro to Crypto-Currencies]
