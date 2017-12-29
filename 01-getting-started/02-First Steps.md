@@ -1,3 +1,4 @@
+# First Steps
 ## Complete the "Foundations" Section first.
 
 * Day 1 -- [Historical Background - Part 1](https://international-entrepreneurship.teachable.com/courses/international-entrepreneurships/lectures/3276058)
@@ -9,12 +10,8 @@
 * Day 7 -- [Behind the Scenes](https://international-entrepreneurship.teachable.com/courses/international-entrepreneurships/lectures/3284513)
 * Day 8 -- [Marketing](https://international-entrepreneurship.teachable.com/courses/international-entrepreneurships/lectures/3360443)
 * Day 9 -- [Cryptocurrency and Digital Money]
-
-* [Part 1](https://international-entrepreneurship.teachable.com/courses/international-entrepreneurships/lectures/3359674)
-
-* [Part 2](https://international-entrepreneurship.teachable.com/courses/international-entrepreneurships/lectures/3365367)
-
-* [Part 3](https://international-entrepreneurship.teachable.com/courses/international-entrepreneurships/lectures/3365194)
-
+  * [Part 1](https://international-entrepreneurship.teachable.com/courses/international-entrepreneurships/lectures/3359674)
+  * [Part 2](https://international-entrepreneurship.teachable.com/courses/international-entrepreneurships/lectures/3365367)
+  * [Part 3](https://international-entrepreneurship.teachable.com/courses/international-entrepreneurships/lectures/3365194)
 * Day 10 - [Intro to Crypto-Currencies]
-* Check out the whole section on Crypto-Currencies
+  * Check out the whole section on Crypto-Currencies
