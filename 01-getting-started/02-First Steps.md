@@ -16,4 +16,5 @@
 
 * [Part 3](https://international-entrepreneurship.teachable.com/courses/international-entrepreneurships/lectures/3365194)
 
-Day 10 - [Intro to Crypto-Currencies]
+* Day 10 - [Intro to Crypto-Currencies]
+* Check out the whole section on Crypto-Currencies
